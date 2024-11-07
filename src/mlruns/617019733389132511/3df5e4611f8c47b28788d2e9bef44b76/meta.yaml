@@ -1,0 +1,15 @@
+artifact_uri: /Users/master/Documents/MlflowProjects/src/test2_artifacts/3df5e4611f8c47b28788d2e9bef44b76/artifacts
+end_time: 1730885259143
+entry_point_name: ''
+experiment_id: '617019733389132511'
+lifecycle_stage: active
+run_id: 3df5e4611f8c47b28788d2e9bef44b76
+run_name: auspicious-rook-228
+run_uuid: 3df5e4611f8c47b28788d2e9bef44b76
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730885259138
+status: 3
+tags: []
+user_id: master

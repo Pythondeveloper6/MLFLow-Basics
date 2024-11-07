@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/c11b4f5db28e4320a5f20e443c687913/artifacts
+end_time: 1730885155836
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c11b4f5db28e4320a5f20e443c687913
+run_name: able-mink-6
+run_uuid: c11b4f5db28e4320a5f20e443c687913
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730885155831
+status: 3
+tags: []
+user_id: master

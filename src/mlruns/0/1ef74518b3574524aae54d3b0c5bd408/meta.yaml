@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/1ef74518b3574524aae54d3b0c5bd408/artifacts
+end_time: 1730885050298
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1ef74518b3574524aae54d3b0c5bd408
+run_name: polite-dolphin-16
+run_uuid: 1ef74518b3574524aae54d3b0c5bd408
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730885050293
+status: 3
+tags: []
+user_id: master
